@@ -42,7 +42,12 @@ Coraline-Interview-Challenge-Data-Engineer/
 ฟังก์ชัน ```insert_data``` แทรกข้อมูลจาก DataFrame ลงในตารางที่สร้างขึ้น โดยใช้คำสั่ง SQL เพื่อเพิ่มประสิทธิภาพและความปลอดภัย
 
 ## Project Results
-
+### Python Source code Execution Result
+![image](https://github.com/getnkit/Coraline-Interview-Challenge-Data-Engineer/blob/cba1e69c0c3b341bf844c02e8950ca6dec1fbf81/images/python_source_code_execution_result.jpg)
+### SELECT * FROM food_sales;
+![image](https://github.com/getnkit/Coraline-Interview-Challenge-Data-Engineer/blob/cba1e69c0c3b341bf844c02e8950ca6dec1fbf81/images/select_all_from_food_sales.jpg)
+### cat_reg.sql Execution Result
+![image](https://github.com/getnkit/Coraline-Interview-Challenge-Data-Engineer/blob/ce652096d12dc66762d93cbc779d0dd2f29493a7/images/cat_reg_sql_execution_result.jpg)
 
 
 
