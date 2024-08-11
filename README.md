@@ -6,26 +6,24 @@
 ```
 Coraline-Interview-Challenge-Data-Engineer/
 │
+├── images/
+│   ├── cat_reg_sql_execution_result.jpg
+│   ├── python_source_code_execution_result.jpg
+│   └── select_all_from_food_sales.jpg
+│
 ├── README.md
-│ # เอกสารที่อธิบายโปรเจกต์
 │
 ├── [For Candidate] Challenge - DE.pdf
-│ # เอกสารที่เกี่ยวข้องกับ Interview Challenge (Data Engineer)
 │
 ├── [For candidate] de_challenge_data.xlsx
-│ # ไฟล์ Excel ที่มีข้อมูลสำหรับ Challenge นี้
 │
 ├── config.ini
-│ # ไฟล์การตั้งค่าการเชื่อมต่อฐานข้อมูล
 │
 ├── cat_reg.sql
-│ # SQL Query สำหรับแสดงผลลัพธ์ของ Challenge นี้
 │
 ├── clean_code.py
-│ # Python Source code ที่มีเฉพาะโค้ด
 │
-├── code_with_explanations.py
-│ # Python Source code ที่มีคำอธิบายอย่างละเอียด
+└── code_with_explanations.py
 ```
 
 ## Structure and Main Functions of Python Source code
