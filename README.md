@@ -17,13 +17,13 @@ Coraline-Interview-Challenge-Data-Engineer/
 │
 ├── [For candidate] de_challenge_data.xlsx
 │
-├── config.ini
-│
 ├── cat_reg.sql
 │
 ├── clean_code.py
 │
-└── code_with_explanations.py
+├── code_with_explanations.py
+│
+└── config.ini
 ```
 
 ## Structure and Main Functions of Python Source code
